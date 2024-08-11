@@ -95,14 +95,14 @@ export default function About() {
       </section>
 
       {/* Call-to-Action Section */}
-      <section className='py-16 bg-blue-600 text-white'>
+      <section className='py-16 bg-green-200 text-white'>
         <div className='container mx-auto px-6 text-center'>
           <h2 className='text-3xl font-semibold mb-4'>Get in Touch</h2>
           <p className='mb-8'>
             We’re here to help you navigate your journey. Contact us today to
             learn more about how we can work together.
           </p>
-          <button className='bg-white text-blue-600 px-6 py-3 rounded-full text-lg font-semibold hover:bg-gray-200 transition'>
+          <button className='bg-white text-green-200 px-6 py-3 rounded-full text-lg font-semibold hover:bg-gray-200 transition'>
             Contact Us
           </button>
         </div>
