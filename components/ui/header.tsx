@@ -11,8 +11,8 @@ export const link = [
   { path: '/', label: 'Home' },
   { path: '/services', label: 'Services' },
   { path: '/about', label: 'About' },
-  { path: '/signup', label: 'Sign up' },
-  { path: '/signin', label: 'Sign in' },
+  // { path: '/signup', label: 'Sign up' },
+  // { path: '/signin', label: 'Sign in' },
 ];
 
 export default function Header() {
